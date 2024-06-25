@@ -912,8 +912,8 @@ header {
 
 .pricing .price {
     position: relative;
-    width: 140px;
-    height: 140px;
+    width: 200px;
+    height: 200px;
     line-height: 140px;
     text-align: center;
     margin: auto;
